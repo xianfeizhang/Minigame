@@ -1,4 +1,4 @@
-﻿namespace ET.Client
+/*namespace ET.Client
 {
 	[Event(SceneType.StateSync)]
 	public class LoginFinish_RemoveLoginUI: AEvent<Scene, LoginFinish>
@@ -9,3 +9,4 @@
 		}
 	}
 }
+*/

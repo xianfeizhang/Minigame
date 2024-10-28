@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Collections.Generic;
 using System.IO;
 
@@ -19,4 +19,4 @@ namespace ET.Client
             await EventSystem.Instance.PublishAsync(root, new AppStartInitFinish());
         }
     }
-}
+}*/

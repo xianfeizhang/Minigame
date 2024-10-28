@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cn.etetet.yiuistatesync": "0.7.0",
     "cn.etetet.packagemanager": "1.0.2",
     "cn.etetet.sourcegenerator": "0.0.7",
     "cn.etetet.statesync": "2.0.10",

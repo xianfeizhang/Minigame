@@ -1,4 +1,4 @@
-﻿namespace ET.Client
+/*namespace ET.Client
 {
     [Event(SceneType.Current)]
     public class SceneChangeFinishEvent_CreateUIHelp : AEvent<Scene, SceneChangeFinish>
@@ -9,3 +9,4 @@
         }
     }
 }
+*/
